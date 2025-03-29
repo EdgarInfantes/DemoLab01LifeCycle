@@ -46,4 +46,6 @@ class MainActivity : AppCompatActivity() {
         Log.i(tag, "MainActivity-->onDestroy")
     }
 
+    //New comment
+
 }
